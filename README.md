@@ -22,7 +22,7 @@ Aktuell arbeite ich an:
 
 - Vertiefung von **JavaScript** (DOM, Events, Browser-APIs) und **Python**
 - **Deutsch B2**: Prüfungsvorbereitung ab Dezember 2026 (Goethe/telc)
-- Zwei weiteren Portfolio-Projekten: einem kleinen Buchhaltungssystem und einer dokumentierten API
+- Einem weiteren Portfolio-Projekt: einer dokumentierten API
 
 ## Projekte
 
@@ -32,9 +32,14 @@ Eine schlanke Aufgabenplaner-Web-App, komplett mit deutscher Benutzeroberfläche
 
 **Technologien:** HTML5, CSS3 (Custom Properties), JavaScript (DOM-Manipulation, Event Handling, localStorage)
 
+### [Mini-Buchhaltung](https://github.com/AML170/mini-buchhaltung)
+
+Eine kleine Einnahmen-Ausgaben-Rechnung als Web-App. Die Oberfläche startet auf Englisch und lässt sich auf Deutsch und Arabisch umschalten (inklusive Rechts-nach-links-Darstellung). Buchungen erfassen, Übersicht über Einnahmen, Ausgaben und Saldo, Auswertung der Ausgaben nach Kategorie. Speicherung im Browser über die Local Storage API. Das Projekt verbindet meinen betriebswirtschaftlichen Hintergrund mit der Softwareentwicklung.
+
+**Technologien:** HTML5, CSS3, JavaScript (Intl-API für Sprachen und Formate, localStorage)
+
 ### Demnächst
 
-- **Mini-Buchhaltungssystem** (Deutsch): verbindet meinen betriebswirtschaftlichen Hintergrund mit der Softwareentwicklung
 - **Dokumentierte API** (Englisch): erste eigenständige Backend-Arbeit
 
 ## Technologien und Lernstand
@@ -93,7 +98,7 @@ Currently working on:
 
 - Deepening **JavaScript** (DOM, events, browser APIs) and **Python**
 - **German B2**: exam preparation starting December 2026 (Goethe/telc)
-- Two more portfolio projects: a small accounting system and a documented API
+- One more portfolio project: a documented API
 
 ## Projects
 
@@ -103,9 +108,14 @@ A lean task-manager web app with a fully German user interface, built with plain
 
 **Technologies:** HTML5, CSS3 (custom properties), JavaScript (DOM manipulation, event handling, localStorage)
 
+### [Mini Accounting](https://github.com/AML170/mini-buchhaltung)
+
+A small income-and-expense tracker as a web app. The UI starts in English and can be switched to German and Arabic (including right-to-left layout). Record bookings, overview of income, expenses and balance, breakdown of expenses by category. Stored in the browser via the Local Storage API. The project connects my business background with software development.
+
+**Technologies:** HTML5, CSS3, JavaScript (Intl API for languages and formats, localStorage)
+
 ### Coming soon
 
-- **Mini accounting system** (German): connecting my business background with software development
 - **Documented API** (English): my first standalone backend work
 
 ## Technologies and honest skill level
